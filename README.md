@@ -2,6 +2,7 @@
 These are two extra scripts to help automating Rotwood image extraction, by going through "anim" subfolders and renaming all the files accordingly, as well as removing .tex, .xml and .bin files afterwards.
 
 The script was written using ChatGPT when dealing with "anim" became a very time consuming hassle. Using it for "images" will likely mess up file naming system.
+
 \\\\\\\\\\
 How to use:
 \\\\\\\\\\
